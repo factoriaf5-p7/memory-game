@@ -104,6 +104,7 @@ back.addEventListener('click', function(){
 ```
 
 ## Requerimientos técnicos
+
 - Desarrolla el front con React Vite + Vitest (intentad utilizar TDD para el desarrollo)
 - Dearrolla el back con nestjs
 - Buenas prácticas de arquitectura y programación.
